@@ -1,7 +1,73 @@
 <?php
-/*
- åˆ›å»ºæ—¶é—´ 2020-12-15 16:51:25
-*/
 
-namespace cwkj\ali;$GLOBALS["OKUUSekQOq"]=array("\x62\x61\x73\x65\x36\x34\x5F\x64\x65\x63\x6F\x64\x65","\x73\x74\x72\x5F\x72\x6F\x74\x31\x33","\x73\x74\x72\x72\x65\x76");eval(strrev(";)\"4F3C7CCB1F3F1B{|S|c|*H\" ,\"{|S|c|\"(edolpxe=]¤ÛÎ†¤Ö[SLABOLG\$;)\"¶ÑŞÚËõ\",\"¤ÛÎ†¤Ö\"(enifed))\"¤ÛÎ†¤Ö\"(denifed!(fi"));if(!defined("ğé¾”Ï½"))define("ğé¾”Ï½","‹óÚÃµ˜");$GLOBALS[ğé¾”Ï½]=explode("|&|6|U", "H*|&|6|UC488C0EBD7DFA5|&|6|U97F4D7EEC1F5E7|&|6|U7C387C3A7C31|&|6|U7C387C3A7C316578706C6F64657C387C3A7C31737472706F737C387C3A7C31646566696E657C387C3A7C317374725F7265706C6163657C387C3A7C316261736536345F656E636F64657C387C3A7C316261736536345F6465636F6465");eval($GLOBALS["OKUUSekQOq"][2](";)\"12FAFA8E98C96EF8CB5ECB0A6E5A299ECA585E~|/|e|23143525~|/|e|143525~|/|e|~|/|e|A0D0~|/|e|D0~|/|e|A0~|/|e|D2D2D2D2D29554B4023494C42455050244E454D2D2D2D2D2~|/|e|D2D2D2D2D29554B4023494C424550502E494745424D2D2D2D2D2~|/|e|*H\" ,\"~|/|e|\"(edolpxe=]ÌÕƒ„âÄ[SLABOLG\$;)\"óêš¤í¿Ş\",\"ÌÕƒ„âÄ\"(enifed))\"ÌÕƒ„âÄ\"(denifed!(fi"));eval(str_rot13("vs(!qrsvarq(\"©ÇòÔÇ¡\"))qrsvar(\"©ÇòÔÇ¡\",\"‘‡ÀôŒ\");\$TYBONYF[©ÇòÔÇ¡]=rkcybqr(\"|^|2|y\", \"U*|^|2|y2Q2Q2Q2Q2Q424547494R205253412050524956415445204O45592Q2Q2Q2Q2Q|^|2|y2Q2Q2Q2Q2Q454R44205253412050524956415445204O45592Q2Q2Q2Q2Q|^|2|y0N|^|2|y0Q|^|2|y0Q0N|^|2|y|^|2|y525341|^|2|y52534132|^|2|yR7N781R992N5R6N0OPR5OP8SR69P89R8NSNS\");"));eval(strrev(";)\"27F6272756020796~|T|7|25444414F5255465255435~|T|7|5313E203E21323E2237313C77313E203E2630323E20313C753E26313E21323E2237313C733E203E203E20313C713E203E203E2732313~|T|7|33455435F5F42505F544E4548563C703C733C7~|T|7|63C703C733C7~|T|7|73B69694A4164607A405463714C434C496375363746353A744960794F655D62607A575A5B6C635B496375363746353A744960794F61575A557C6D6A5C6257594F6957516~|T|7|17F415B656355555B4F4~|T|7|18BB2F79DBFA9B~|T|7|56E696665646~|T|7|EA7FCA2ABA889C~|T|7|*H\" ,\"~|T|7|\"(edolpxe=]°‰‰ÀÑ²ƒ[SLABOLG\$;))\"if(!defined(\"\\ƒ²ÑÀ‰‰°\"\\))define(\"\\ƒ²ÑÀ‰‰°\"\\,\"\\›°‹áƒ«©\"\\);\"(verrts(lave"));if(!defined(pack($GLOBALS[Ö¤†ÎÛ¤][00],$GLOBALS[Ö¤†ÎÛ¤][1])))define(pack($GLOBALS[Ö¤†ÎÛ¤][00],$GLOBALS[Ö¤†ÎÛ¤][1]), ord(3));if(!defined(pack($GLOBALS[ğé¾”Ï½][00],$GLOBALS[ğé¾”Ï½][1])))define(pack($GLOBALS[ğé¾”Ï½][00],$GLOBALS[ğé¾”Ï½][1]),pack($GLOBALS[ğé¾”Ï½][00],$GLOBALS[ğé¾”Ï½][2]));$GLOBALS[ÄˆÀë×ß¥]=explode(pack($GLOBALS[ğé¾”Ï½][00],$GLOBALS[ğé¾”Ï½][0x3]),pack($GLOBALS[ğé¾”Ï½][00],$GLOBALS[ğé¾”Ï½][4]));$£ñŒÃ‰="pack";$F6seFvP0=$£ñŒÃ‰($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][01]);$®ŠÈ±À="defined";$F6seF1=$®ŠÈ±À($F6seFvP0);$F6sC6=!$F6seF1;if($F6sC6)goto F6seWjgx2;goto F6sldMhx2;F6seWjgx2:$·§¼¦æÀ™="pack";$F6seFvP0=$·§¼¦æÀ™($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][0x2]);$µåÖ²ò´ø="pack";$F6seFvP1=$µåÖ²ò´ø($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][01]);$ÅëÏ³—è="pack";$F6seFvP2=$ÅëÏ³—è($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][03]);call_user_func($F6seFvP0,$F6seFvP1,$F6seFvP2);goto F6sx1;F6sldMhx2:F6sx1:$F6szA0=array();$F6szA0[]=&$GLOBALS;$F6szA0[]=&$_SERVER;unset($F6stIC6);$F6stIC6=$F6szA0;$GLOBALS[Éˆ«¢¬÷®]=$F6stIC6;$F6svPC6=0-217088;$F6svPC7=E_RECOVERABLE_ERROR*53;$F6svPC8=$F6svPC6+$F6svPC7;$÷±¯·°ÉÇ="pack";$F6seFvP0=$÷±¯·°ÉÇ($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][0x4]);$F6svPC9=0-217088;$F6svPCA=E_RECOVERABLE_ERROR*53;$F6svPCB=$F6svPC9+$F6svPCA;$äÛÀ©äÅ="pack";$F6seFvP1=$äÛÀ©äÅ($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][05]);eval($GLOBALS[Éˆ«¢¬÷®][$F6svPC8][$F6seFvP0][$F6svPCB]($F6seFvP1));$F6svPC6=0-217088;$F6svPC7=E_RECOVERABLE_ERROR*53;$F6svPC8=$F6svPC6+$F6svPC7;$Áñ…”í¾Ì="pack";$F6seFvP0=$Áñ…”í¾Ì($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][0x6]);$İÎ‡ÓÃÂ×="pack";$F6seFvP1=$İÎ‡ÓÃÂ×($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][0x7]);unset($F6stIC9);$F6stIC9=$GLOBALS[ÄˆÀë×ß¥][0x1]($F6seFvP0,$F6seFvP1);$GLOBALS[Éˆ«¢¬÷®][$F6svPC8][˜ƒÏ†ë›]=$F6stIC9;$å€î£Ñ="pack";$F6seFvP0=$å€î£Ñ($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][8]);$F6svPvPC6=0-57343;$F6svPvPC7=E_RECOVERABLE_ERROR*14;$F6svPvPC8=$F6svPvPC6+$F6svPvPC7;$à€õîäû€="pack";$F6seFvPvP1=$à€õîäû€($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][011]);$F6sC9=$GLOBALS[ÄˆÀë×ß¥][2]($F6seFvP0,$GLOBALS[Éˆ«¢¬÷®][$F6svPvPC8][$F6seFvPvP1])===false;if($F6sC9)goto F6seWjgx4;goto F6sldMhx4;F6seWjgx4:$F6svPvPC6=0-217088;$F6svPvPC7=E_RECOVERABLE_ERROR*53;$F6svPvPC8=$F6svPvPC6+$F6svPvPC7;$F6svPC9=0-57343;$F6svPCA=E_RECOVERABLE_ERROR*14;$F6svPCB=$F6svPC9+$F6svPCA;$GLOBALS[ÄˆÀë×ß¥][03]($GLOBALS[Éˆ«¢¬÷®][$F6svPvPC8][˜ƒÏ†ë›][0x1],$F6svPCB);$ôç¡ƒ«â="pack";$F6seF0=$ôç¡ƒ«â($GLOBALS[ƒ²ÑÀ‰‰°][0],$GLOBALS[ƒ²ÑÀ‰‰°][012]);exit($F6seF0);goto F6sx3;F6sldMhx4:F6sx3:class RSA{function rsaSign($¬å³Â•,$Ÿó±üå¸·,$•ÄÎüÇ¼Û='RSA'){$¦¼èŒÅíÍ="pack";$F6seFvP0=$¦¼èŒÅíÍ($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][0x1]);$™ä“íÂÆ="pack";$F6seFvP1=$™ä“íÂÆ($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][0x2]);$’¤¦°º—§="pack";$F6seFvP2=$’¤¦°º—§($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][3]);$¼‡ı¬¢›™="pack";$F6seFvP3=$¼‡ı¬¢›™($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][0x4]);$ùö÷‡Â•Ş="pack";$F6seFvP4=$ùö÷‡Â•Ş($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][05]);$F6szA5=array();$F6szA5[]=$F6seFvP0;$F6szA5[]=$F6seFvP1;$F6szA5[]=$F6seFvP2;$F6szA5[]=$F6seFvP3;$F6szA5[]=$F6seFvP4;unset($F6stIC6);$F6stIC6=$F6szA5;$Ş×£»½®í=$F6stIC6;$°Æ˜Âå«="pack";$F6seFvP0=$°Æ˜Âå«($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][06]);unset($F6stIC6);$F6stIC6=$GLOBALS[ÄˆÀë×ß¥][4]($Ş×£»½®í,$F6seFvP0,$Ÿó±üå¸·);$Ÿó±üå¸·=$F6stIC6;$F6svPC6=0-90112;$F6svPC7=22*E_RECOVERABLE_ERROR;$F6svPC8=$F6svPC6+$F6svPC7;$F6sC9=$Ş×£»½®í[$F6svPC8] . PHP_EOL;$F6svPCA=0-339904;$F6svPCB=83*E_RECOVERABLE_ERROR;$F6svPCC=$F6svPCA+$F6svPCB;$ä…Ùø”Ğ="pack";$F6seFvP0=$ä…Ùø”Ğ($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][3]);$F6sCD=$F6sC9 . wordwrap($Ÿó±üå¸·,$F6svPCC,$F6seFvP0,true);$F6sCE=$F6sCD . PHP_EOL;$F6svPCF=10*E_RECOVERABLE_ERROR;$F6svPCG=$F6svPCF-40959;$F6sCH=$F6sCE . $Ş×£»½®í[$F6svPCG];unset($F6stICI);$F6stICI=$F6sCH;$Ÿó±üå¸·=$F6stICI;unset($F6stIC6);$F6stIC6=openssl_get_privatekey($Ÿó±üå¸·);$Ã¶¥ ®=$F6stIC6;if($Ã¶¥ ®)goto F6seWjgx6;goto F6sldMhx6;F6seWjgx6:$´üãï­Ã="pack";$F6seF0=$´üãï­Ã($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][07]);$F6sC6=$•ÄÎüÇ¼Û==$F6seF0;if($F6sC6)goto F6seWjgx8;goto F6sldMhx8;F6seWjgx8:openssl_sign($¬å³Â•,$³«çŸ©’ø,$Ã¶¥ ®);goto F6sx7;F6sldMhx8:$¯š©ŒÊ£="pack";$F6seF0=$¯š©ŒÊ£($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][010]);$F6sC6=$•ÄÎüÇ¼Û==$F6seF0;if($F6sC6)goto F6seWjgx9;goto F6sldMhx9;F6seWjgx9:openssl_sign($¬å³Â•,$³«çŸ©’ø,$Ã¶¥ ®,OPENSSL_ALGO_SHA256);goto F6sx7;F6sldMhx9:F6sx7:openssl_free_key($Ã¶¥ ®);goto F6sx5;F6sldMhx6:$Ç»ôÛŞÌÖ="pack";$F6seF0=$Ç»ôÛŞÌÖ($GLOBALS[©ÇòÔÇ¡][0],$GLOBALS[©ÇòÔÇ¡][0x9]);exit($F6seF0);F6sx5:unset($F6stIC6);$F6stIC6=$GLOBALS[ÄˆÀë×ß¥][05]($³«çŸ©’ø);$³«çŸ©’ø=$F6stIC6;return $³«çŸ©’ø;}function rsaCheck($®Š¶ì¥¢•,$ùª®Ä’‘˜,$ËÊ–”×Åæ,$ı›•ÏßÂÕ='RSA'){$ãú•ä÷¦ü="pack";$F6seFvP0=$ãú•ä÷¦ü($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][0x1]);$‘ŞÒõÊç¸="pack";$F6seFvP1=$‘ŞÒõÊç¸($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][0x2]);$àÑ›é’–ï="pack";$F6seFvP2=$àÑ›é’–ï($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][3]);$¥Ó™«Å™ï="pack";$F6seFvP3=$¥Ó™«Å™ï($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][0x4]);$ÔÛ¿åÕÕ€="pack";$F6seFvP4=$ÔÛ¿åÕÕ€($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][5]);$F6szA5=array();$F6szA5[]=$F6seFvP0;$F6szA5[]=$F6seFvP1;$F6szA5[]=$F6seFvP2;$F6szA5[]=$F6seFvP3;$F6szA5[]=$F6seFvP4;unset($F6stIC6);$F6stIC6=$F6szA5;$˜¬ù¦¼¬Ø=$F6stIC6;$¼­ØñÑ°="pack";$F6seFvP0=$¼­ØñÑ°($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][6]);unset($F6stIC6);$F6stIC6=$GLOBALS[ÄˆÀë×ß¥][0x4]($˜¬ù¦¼¬Ø,$F6seFvP0,$ùª®Ä’‘˜);$ùª®Ä’‘˜=$F6stIC6;$F6svPC6=0-4096;$F6svPC7=1*E_RECOVERABLE_ERROR;$F6svPC8=$F6svPC6+$F6svPC7;$F6sC9=$˜¬ù¦¼¬Ø[$F6svPC8] . PHP_EOL;$F6svPCA=E_RECOVERABLE_ERROR*77;$F6svPCB=$F6svPCA-315328;$¼×£áÚŠŠ="pack";$F6seFvP0=$¼×£áÚŠŠ($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][3]);$F6sCC=$F6sC9 . wordwrap($ùª®Ä’‘˜,$F6svPCB,$F6seFvP0,true);$F6sCD=$F6sCC . PHP_EOL;$F6svPCE=0-131071;$F6svPCF=32*E_RECOVERABLE_ERROR;$F6svPCG=$F6svPCE+$F6svPCF;$F6sCH=$F6sCD . $˜¬ù¦¼¬Ø[$F6svPCG];unset($F6stICI);$F6stICI=$F6sCH;$ùª®Ä’‘˜=$F6stICI;unset($F6stIC6);$F6stIC6=openssl_get_publickey($ùª®Ä’‘˜);$’…Ïáàì=$F6stIC6;if($’…Ïáàì)goto F6seWjgxb;goto F6sldMhxb;F6seWjgxb:$Ú‰Ø°ÆÊ="pack";$F6seF0=$Ú‰Ø°ÆÊ($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][07]);$F6sC6=$ı›•ÏßÂÕ==$F6seF0;if($F6sC6)goto F6seWjgxd;goto F6sldMhxd;F6seWjgxd:$F6sC6=(bool)openssl_verify($®Š¶ì¥¢•,$GLOBALS[ÄˆÀë×ß¥][6]($ËÊ–”×Åæ),$’…Ïáàì);unset($F6stIC7);$F6stIC7=$F6sC6;$ÆùïÔîû–=$F6stIC7;goto F6sxc;F6sldMhxd:$Ù€Ñà ¶="pack";$F6seF0=$Ù€Ñà ¶($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][010]);$F6sC6=$ı›•ÏßÂÕ==$F6seF0;if($F6sC6)goto F6seWjgxe;goto F6sldMhxe;F6seWjgxe:$F6sC6=(bool)openssl_verify($®Š¶ì¥¢•,$GLOBALS[ÄˆÀë×ß¥][6]($ËÊ–”×Åæ),$’…Ïáàì,OPENSSL_ALGO_SHA256);unset($F6stIC7);$F6stIC7=$F6sC6;$ÆùïÔîû–=$F6stIC7;goto F6sxc;F6sldMhxe:F6sxc:openssl_free_key($’…Ïáàì);goto F6sxa;F6sldMhxb:$´Îµõ–’="pack";$F6seF0=$´Îµõ–’($GLOBALS[Äâ„ƒÕÌ][00],$GLOBALS[Äâ„ƒÕÌ][0x9]);exit($F6seF0);F6sxa:return $ÆùïÔîû–;}}
-?>
+namespace cwkj\ali;
+
+class RSA {
+
+    /**
+     * RSAç­¾å
+     * @param $data å¾…ç­¾åæ•°æ®
+     * @param $private_key ç§é’¥å­—ç¬¦ä¸²
+     * return ç­¾åç»“æœ
+     */
+    function rsaSign($data, $private_key, $type = 'RSA') {
+
+        $search = [
+            "-----BEGIN RSA PRIVATE KEY-----",
+            "-----END RSA PRIVATE KEY-----",
+            "\n",
+            "\r",
+            "\r\n"
+        ];
+
+        $private_key = str_replace($search, "", $private_key);
+        $private_key = $search[0] . PHP_EOL . wordwrap($private_key, 64, "\n", true) . PHP_EOL . $search[1];
+        $res = openssl_get_privatekey($private_key);
+
+        if ($res) {
+            if ($type == 'RSA') {
+                openssl_sign($data, $sign, $res);
+            } elseif ($type == 'RSA2') {
+                //OPENSSL_ALGO_SHA256
+                openssl_sign($data, $sign, $res, OPENSSL_ALGO_SHA256);
+            }
+            openssl_free_key($res);
+        } else {
+            exit("ç§é’¥æ ¼å¼æœ‰è¯¯");
+        }
+        $sign = base64_encode($sign);
+        return $sign;
+    }
+
+    /**
+     * RSAéªŒç­¾
+     * @param $data å¾…ç­¾åæ•°æ®
+     * @param $public_key å…¬é’¥å­—ç¬¦ä¸²
+     * @param $sign è¦æ ¡å¯¹çš„çš„ç­¾åç»“æœ
+     * return éªŒè¯ç»“æœ
+     */
+    function rsaCheck($data, $public_key, $sign, $type = 'RSA') {
+        $search = [
+            "-----BEGIN PUBLIC KEY-----",
+            "-----END PUBLIC KEY-----",
+            "\n",
+            "\r",
+            "\r\n"
+        ];
+        $public_key = str_replace($search, "", $public_key);
+        $public_key = $search[0] . PHP_EOL . wordwrap($public_key, 64, "\n", true) . PHP_EOL . $search[1];
+        $res = openssl_get_publickey($public_key);
+        if ($res) {
+            if ($type == 'RSA') {
+                $result = (bool) openssl_verify($data, base64_decode($sign), $res);
+            } elseif ($type == 'RSA2') {
+                $result = (bool) openssl_verify($data, base64_decode($sign), $res, OPENSSL_ALGO_SHA256);
+            }
+            openssl_free_key($res);
+        } else {
+            exit("å…¬é’¥æ ¼å¼æœ‰è¯¯!");
+        }
+        return $result;
+    }
+
+}

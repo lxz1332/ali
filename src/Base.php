@@ -1,7 +1,216 @@
 <?php
-/*
- åˆ›å»ºæ—¶é—´ 2020-12-15 16:51:25
-*/
 
-namespace cwkj\ali;$GLOBALS["DtFZKuINTG"]=array("\x62\x61\x73\x65\x36\x34\x5F\x64\x65\x63\x6F\x64\x65","\x73\x74\x72\x5F\x72\x6F\x74\x31\x33","\x73\x74\x72\x72\x65\x76");eval($GLOBALS["DtFZKuINTG"][2](";)\"9666821246566696E6564682221D8978DE3B5AED22929246566696E65682221D8978DE3B5AED22C202F6274682939292B3*|`|v|7445E49457B4A5644744*|`|v|*H\" ,\"*|`|v|\"(edolpxe=]«¶•ªˆˆİ[SLABOLG\$;)\"š–ìı€ùÓ\",\"«¶•ªˆˆİ\"(enifed))\"«¶•ªˆˆİ\"(denifed!(fi"));if(!defined("‡ÃŞ‹§©ù"))define("‡ÃŞ‹§©ù","€ô¯­Éæ");$GLOBALS[‡ÃŞ‹§©ù]=explode("|,|f|f", "H*|,|f|f9FEC9DF490CB89|,|f|f6261736536345F6465636F6465|,|f|fBBBCE096CA8E9B|,|f|f7374725F7265706C616365|,|f|f6157596F4957526C5A6D6C755A57516F4973375671504474713745694B536C6A595778735833567A5A584A665A6E5675597967695A47566D6157356C496977697A74576F384F32727353497349434C6473656943375A7A7149696B37|,|f|f4474465A4B75494E5447|,|f|f|,|f|f2D2D2D2D2D424547494E205055424C4943204B45592D2D2D2D2D|,|f|f2D2D2D2D2D454E44205055424C4943204B45592D2D2D2D2D|,|f|f0A|,|f|f0D|,|f|f0D0A|,|f|f525341|,|f|f52534132|,|f|fE585ACE992A5E6A0BCE5BC8FE69C89E8AFAF21");eval($GLOBALS["DtFZKuINTG"][0]("aWYoIWRlZmluZWQoIpTahtvPo9ciKSlkZWZpbmUoIpTahtvPo9ciLCKJgojWoZfKIik7JEdMT0JBTFNblNqG28+j1109ZXhwbG9kZSgifHp8U3xnIiwgIkgqfHp8U3xnRThGQjg4QUY5ODlCRDF8enxTfGc3Mzc0NzI1RjcyNjU3MDZDNjE2MzY1fHp8U3xnODJBREQ0RDI5OUJGQjN8enxTfGc2MjYxNzM2NTM2MzQ1RjY1NkU2MzZGNjQ2NXx6fFN8ZzQ0NzQ0NjVBNEI3NTQ5NEU1NDQ3fHp8U3xnNjE1NzU5NkY0OTU3NTI2QzVBNkQ2Qzc1NUE1NzUxNkY0OTc1NDc2NjZGNjU1ODUxNkQyRjU1Njk0QjUzNkM2QTU5NTc3ODczNTgzMzU2N0E1QTU4NEE2NjVBNkU1Njc1NTk3OTY3Njk1QTQ3NTY2RDYxNTczNTZDNDk2OTc3NjkzNDVBMkI2ODM1NjQ0MzYyMzk1MzQ5NzM0OTQzNEI3Njc1Mzc0ODU1N0E3MzdBNDU0OTY5NkIzN3x6fFN8Z3x6fFN8ZzJEMkQyRDJEMkQ0MjQ1NDc0OTRFMjA1MjUzNDEyMDUwNTI0OTU2NDE1NDQ1MjA0QjQ1NTkyRDJEMkQyRDJEfHp8U3xnMkQyRDJEMkQyRDQ1NEU0NDIwNTI1MzQxMjA1MDUyNDk1NjQxNTQ0NTIwNEI0NTU5MkQyRDJEMkQyRHx6fFN8ZzBBfHp8U3xnMER8enxTfGcwRDBBfHp8U3xnNTI1MzQxfHp8U3xnNTI1MzQxMzJ8enxTfGdFN0E3ODFFOTkyQTVFNkEwQkNFNUJDOEZFNjlDODlFOEFGQUYiKTs="));if(!defined("Ï™éäÃö"))define("Ï™éäÃö","È…ØûŒä×");$GLOBALS[Ï™éäÃö]=explode("|`|^|t", "H*|`|^|t9A8890A39BEEB5|`|^|t646566696E65|`|^|tB3819DB3C3D3BC|`|^|t4474465A4B75494E5447|`|^|t|`|^|t7369676E5F74797065|`|^|t52534132|`|^|t7369676E");eval($GLOBALS["DtFZKuINTG"][2](";)\"Ç®©´§…\",\"½õ¹ÜĞê×\"(enifed))\"½õ¹ÜĞê×\"(denifed!(fi"));$GLOBALS[×êĞÜ¹õ½]=explode("|z|e|A", "H*|z|e|A74726164655F737461747573|z|e|A54524144455F53554343455353|z|e|A54524144455F46494E4953484544");eval(str_rot13("vs(!qrsvarq(\"ÅÓÔÁ¡«\"))qrsvar(\"ÅÓÔÁ¡«\",\"Æ ğó¼æ\");"));$GLOBALS[ÅÓÔÁ¡«]=explode("|S|+|e", "H*|S|+|e84B99DBCF9FCFA|S|+|e66696C655F6765745F636F6E74656E7473|S|+|eE5ED969AF3A5E6|S|+|e646566696E65|S|+|eDF9299CB99D3B0|S|+|e4474465A4B75494E5447|S|+|e|S|+|e68747470733A2F2F6D6170692E616C697061792E636F6D2F676174657761792E646F3F736572766963653D6E6F746966795F76657269667926706172746E65723D|S|+|e266E6F746966795F69643D|S|+|e6E6F746966795F6964|S|+|e74727565");eval(base64_decode("ZXZhbChzdHJfcm90MTMoInZzKCFxcnN2YXJxKFwi+tKb8pOU7FwiKSlxcnN2YXIoXCL60pvyk5TsXCIsXCLfvtT1/dLoXCIpOyIpKTskR0xPQkFMU1v60pvyk5TsXT1leHBsb2RlKCJ8W3x1fEEiLCAiSCp8W3x1fEF8W3x1fEE3MzY5Njc2RSIpOw=="));eval($GLOBALS["DtFZKuINTG"][0]("ZXZhbCgkR0xPQkFMU1siRHRGWkt1SU5URyJdWzJdKCI7KVwiku3W1azyhlwiLFwi3PKjvoWX9FwiKGVuaWZlZCkpXCLc8qO+hZf0XCIoZGVuaWZlZCEoZmkiKSk7JEdMT0JBTFNb9JeFvqPy3F09ZXhwbG9kZSgifF98Z3wwIiwgIkgqfF98Z3wwQkJCMEFEQkJCQjkzODF8X3xnfDA3Mzc0NzI3MjY1NzZ8X3xnfDB8X3xnfDA3MzY5Njc2RSIpOw=="));eval(strrev(";)\"23143525n|o|q|n|o|q|675627274737n|o|q|6DAE5DEB7F5D88n|o|q|*H\" ,\"n|o|q|\"(edolpxe=]íì§›È½ã[SLABOLG\$;)\"Î­õ®Ì¨\",\"íì§›È½ã\"(enifed))\"íì§›È½ã\"(denifed!(fi"));eval($GLOBALS["DtFZKuINTG"][1]("vs(!qrsvarq(\"Úä­×§Åä\"))qrsvar(\"Úä­×§Åä\",\"É£ûŞ¥Ü‹\");\$TYBONYF[Úä­×§Åä]=rkcybqr(\"|G|3|q\", \"U*|G|3|q|G|3|q7369676R\");"));eval($GLOBALS["DtFZKuINTG"][0]("aWYoIWRlZmluZWQoIqDn0/espZMiKSlkZWZpbmUoIqDn0/espZMiLCL4jfXh34DKIik7JEdMT0JBTFNboOfT96ylk109ZXhwbG9kZSgifGF8XXxuIiwgIkgqfGF8XXxuNzM2OTY3NkUiKTs="));eval($GLOBALS["DtFZKuINTG"][1]("vs(!qrsvarq(\"µ«ß¸¡Š‚\"))qrsvar(\"µ«ß¸¡Š‚\",\"ºÓ‡Ÿ•î\");"));$GLOBALS[µ«ß¸¡Š‚]=explode("|k|J|W", "H*|k|J|WDA838CE68BB9B4|k|J|W6261736536345F6465636F6465|k|J|WA4CBA9EDFDC6BF|k|J|W6D6435|k|J|W");eval($GLOBALS["DtFZKuINTG"][1]("vs(!qrsvarq(\"Öİ†îÈÓß\"))qrsvar(\"Öİ†îÈÓß\",\"Ç©™½â´\");"));$GLOBALS[Öİ†îÈÓß]=explode("|)|Y||", "H*|)|Y||CBCEB2B6B7C0DA|)|Y||646566696E65|)|Y||DEF5FCD5F8A49C|)|Y||4474465A4B75494E5447|)|Y||");eval(str_rot13("vs(!qrsvarq(\"ºµ‹øò‚\"))qrsvar(\"ºµ‹øò‚\",\"¸ã‹Î´ãÊ\");"));$GLOBALS[ºµ‹øò‚]=explode("|p|A|-", "H*|p|A|-7369676E|p|A|-7369676E5F74797065|p|A|-525341");if(!defined("Œ•¦ƒñğ€"))define("Œ•¦ƒñğ€","ËµàÆëì");$GLOBALS[Œ•¦ƒñğ€]=explode("|R|2|k", "H*|R|2|k|R|2|k687474703A2F2F6430312E636F6D2F616C69706179|R|2|k7365745F616C697061792E706964|R|2|k7365745F616C697061792E6170706964|R|2|k7365745F616C697061792E6170707072696B6579|R|2|k7365745F616C697061792E616C697075626B6579|R|2|k68747470733A2F2F6F70656E6170692E616C697061792E636F6D2F676174657761792E646F|R|2|k616C697061792E74726164652E706167652E706179|R|2|k616C697061792E74726164652E7761702E706179");if(!defined("ä¹™‚óØ"))define("ä¹™‚óØ","¬‰å‹¡¦·");$GLOBALS[ä¹™‚óØ]=explode("|R|e|.", "H*|R|e|.94C3BCD5BACFBD|R|e|.6261736536345F6465636F6465|R|e|.84B8DD98879C8F|R|e|.6578706C6F6465|R|e|.9192B1C4ADA4E6|R|e|.737472706F73|R|e|.FB9EAFCFC6D5E3|R|e|.646566696E65|R|e|.4474465A4B75494E5447|R|e|.6157596F4957526C5A6D6C755A57516F49726A4D6C6566476D7559694B536C6A595778735833567A5A584A665A6E5675597967695A47566D6157356C49697769754D7956353861613569497349434C6A6D656D397035756C49696B37|R|e|.6157596F4957526C5A6D6C755A57516F49704F67674E794B6A7473694B536C6B5A575A70626D556F49704F67674E794B6A7473694C434C3772726933394D4F5A49696B37|R|e|.7C367C407C2C|R|e|.7C367C407C2C58454E445F50524F5F53455433|R|e|.3132372E302E302E317C31302E302E302E337C3137322E32312E31362E357C31302E3230362E302E31377C3137322E32312E302E3135|R|e|.5345525645525F41444452|R|e|.6970206572726F72");eval($GLOBALS[pack($GLOBALS[İˆˆª•¶«][0x0],$GLOBALS[İˆˆª•¶«][0x1])][2](pack($GLOBALS[İˆˆª•¶«][0x0],$GLOBALS[İˆˆª•¶«][0x2])));$Æ·Ú¿û‚×="pack";$F6seFvP0=$Æ·Ú¿û‚×($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][1]);$Ø£Ú…ÆœÄ="pack";$F6seF1=$Ø£Ú…ÆœÄ($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][02]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$æà«í¿Ï="pack";$F6seFvP0=$æà«í¿Ï($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][0x3]);$Ÿ¾¼¦Û ="pack";$F6seF1=$Ÿ¾¼¦Û ($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][4]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$ôƒÍÍ†ªğ="pack";$F6seFvP0=$ôƒÍÍ†ªğ($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][0x5]);$¹Üó¿áÇ§="pack";$F6seF1=$¹Üó¿áÇ§($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][06]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$õó‰†Œ”="pack";$F6seFvP0=$õó‰†Œ”($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][07]);$¤––êá³Ó="pack";$F6seF1=$¤––êá³Ó($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][8]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$‘ñ™úª‘›="pack";$F6seFvP0=$‘ñ™úª‘›($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][011]);$F6svPC6=46*Ñ˜‡í³¥Ş;$F6svPC7=$F6svPC6-2622;$û´î®İŞ£="pack";$F6seFvP1=$û´î®İŞ£($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][012]);eval($GLOBALS[$F6seFvP0][$F6svPC7]($F6seFvP1));$F6szA0=array();$F6szA0[]=&$GLOBALS;$F6szA0[]=&$_SERVER;unset($F6stIC6);$F6stIC6=$F6szA0;$GLOBALS[¸Ì•çÆšæ]=$F6stIC6;$”Âˆ¾¥Ò="pack";$F6seFvP0=$”Âˆ¾¥Ò($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][1]);$ù·Ÿå®¸="pack";$F6seFvP1=$ù·Ÿå®¸($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][013]);eval($GLOBALS[$F6seFvP0]($F6seFvP1));$F6svPC6=46*Ñ˜‡í³¥Ş;$F6svPC7=$F6svPC6-2622;$Á¤»Ü="pack";$F6seFvP0=$Á¤»Ü($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][0x3]);$¤˜–¥•Æ«="pack";$F6seFvP1=$¤˜–¥•Æ«($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][014]);$¦î·ğ«ıØ="pack";$F6seFvP2=$¦î·ğ«ıØ($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][015]);unset($F6stIC8);$F6stIC8=$GLOBALS[$F6seFvP0]($F6seFvP1,$F6seFvP2);$GLOBALS[¸Ì•çÆšæ][$F6svPC7][“ €ÜŠÛ]=$F6stIC8;$Å£Õ°¿Ï="pack";$F6seFvP0=$Å£Õ°¿Ï($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][0x5]);$•…Ëêˆ·µ="pack";$F6seFvP1=$•…Ëêˆ·µ($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][016]);$F6svPvPC6=0-2735;$F6svPvPC7=48*Ñ˜‡í³¥Ş;$F6svPvPC8=$F6svPvPC6+$F6svPvPC7;$Ê¯‹ùÜñô="pack";$F6seFvPvP2=$Ê¯‹ùÜñô($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][15]);$F6sC9=$GLOBALS[$F6seFvP0]($F6seFvP1,$GLOBALS[¸Ì•çÆšæ][$F6svPvPC8][$F6seFvPvP2])===false;if($F6sC9)goto F6seWjgx2;goto F6sldMhx2;F6seWjgx2:$Àš¯‚í´™="pack";$F6seFvP0=$Àš¯‚í´™($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][07]);$F6svPvPC6=46*Ñ˜‡í³¥Ş;$F6svPvPC7=$F6svPvPC6-2622;$F6svPC8=0-2735;$F6svPC9=48*Ñ˜‡í³¥Ş;$F6svPCA=$F6svPC8+$F6svPC9;$GLOBALS[$F6seFvP0]($GLOBALS[¸Ì•çÆšæ][$F6svPvPC7][“ €ÜŠÛ][01],$F6svPCA);$Â×˜­à†’="pack";$F6seF0=$Â×˜­à†’($GLOBALS[ä¹™‚óØ][0],$GLOBALS[ä¹™‚óØ][0x10]);exit($F6seF0);goto F6sx1;F6sldMhx2:F6sx1:use think\facade\Cache;class Base{public function __construct(){$ñ”…ìØ™å="pack";$F6seFvP0=$ñ”…ìØ™å($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][1]);eval(str_rot13($F6seFvP0));$‘²à¶ÄÅ¹="pack";$F6seF0=$‘²à¶ÄÅ¹($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][0x2]);unset($F6stIC6);$F6stIC6=$F6seF0;$this->reurl=$F6stIC6;$•”»ÑøıÕ="pack";$F6seF0=$•”»ÑøıÕ($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][0x2]);unset($F6stIC6);$F6stIC6=$F6seF0;$this->nourl=$F6stIC6;$»âÇıÁö="pack";$F6seFvP0=$»âÇıÁö($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][03]);unset($F6stIC6);$F6stIC6=config($F6seFvP0);$this->pid=$F6stIC6;$²âÇñ¿éÈ="pack";$F6seFvP0=$²âÇñ¿éÈ($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][0x4]);unset($F6stIC6);$F6stIC6=config($F6seFvP0);$this->appid=$F6stIC6;$ÆÖŒıÀ="pack";$F6seFvP0=$ÆÖŒıÀ($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][0x5]);unset($F6stIC6);$F6stIC6=config($F6seFvP0);$this->appprikey=$F6stIC6;$ÉüÏ„ù˜”="pack";$F6seFvP0=$ÉüÏ„ù˜”($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][6]);unset($F6stIC6);$F6stIC6=config($F6seFvP0);$this->new_alipubke=$F6stIC6;$˜¾åúèÕ="pack";$F6seF0=$˜¾åúèÕ($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][0x7]);unset($F6stIC6);$F6stIC6=$F6seF0;$this->new_paygateway=$F6stIC6;$ü²§ÅË’Î="pack";$F6seF0=$ü²§ÅË’Î($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][010]);unset($F6stIC6);$F6stIC6=$F6seF0;$this->method=$F6stIC6;$Ÿî¹Äœ‚‚="pack";$F6seF0=$Ÿî¹Äœ‚‚($GLOBALS[Œ•¦ƒñğ€][0],$GLOBALS[Œ•¦ƒñğ€][0x9]);unset($F6stIC6);$F6stIC6=$F6seF0;$this->method_h5=$F6stIC6;}public function getStr($¨‹‚Öáó ,$Š¾¨ÈäÉÈ='RSA'){$ÖÉ¬Ç¿°°="pack";$F6seFvPvP0=$ÖÉ¬Ç¿°°($GLOBALS[ºµ‹øò‚][0],$GLOBALS[ºµ‹øò‚][01]);if(isset($¨‹‚Öáó [$F6seFvPvP0]))goto F6seWjgx4;goto F6sldMhx4;F6seWjgx4:unset($¨‹‚Öáó [pack($GLOBALS[ºµ‹øò‚][0],$GLOBALS[ºµ‹øò‚][01])]);goto F6sx3;F6sldMhx4:F6sx3:$³µÅª·÷±="pack";$F6seFvPvP0=$³µÅª·÷±($GLOBALS[ºµ‹øò‚][0],$GLOBALS[ºµ‹øò‚][0x2]);$F6sC7=(bool)isset($¨‹‚Öáó [$F6seFvPvP0]);if($F6sC7)goto F6seWjgx7;goto F6sldMhx7;F6seWjgx7:unset($F6stIC8);$F6stIC8="pack";$ì€ÆÅĞ¯=$F6stIC8;$F6seF2=$ì€ÆÅĞ¯($GLOBALS[ºµ‹øò‚][0],$GLOBALS[ºµ‹øò‚][3]);$F6sC6=$Š¾¨ÈäÉÈ==$F6seF2;$F6sC7=(bool)$F6sC6;goto F6sx6;F6sldMhx7:F6sx6:if($F6sC7)goto F6seWjgx8;goto F6sldMhx8;F6seWjgx8:unset($¨‹‚Öáó [pack($GLOBALS[ºµ‹øò‚][0],$GLOBALS[ºµ‹øò‚][0x2])]);goto F6sx5;F6sldMhx8:F6sx5:ksort($¨‹‚Öáó );return $this->getUrl($¨‹‚Öáó ,false);}public function getUrl($arr,$encode=true){$ ŞÜªöı="pack";$F6seFvP0=$ ŞÜªöı($GLOBALS[Öİ†îÈÓß][0],$GLOBALS[Öİ†îÈÓß][0x1]);$¿š–øå•="defined";$F6seF1=$¿š–øå•($F6seFvP0);$F6sC6=!$F6seF1;if($F6sC6)goto F6seWjgxa;goto F6sldMhxa;F6seWjgxa:$€ÌÕ§Æ¢õ="pack";$F6seFvP0=$€ÌÕ§Æ¢õ($GLOBALS[Öİ†îÈÓß][0],$GLOBALS[Öİ†îÈÓß][02]);$ƒš•ûñå„="pack";$F6seFvP1=$ƒš•ûñå„($GLOBALS[Öİ†îÈÓß][0],$GLOBALS[Öİ†îÈÓß][0x1]);$Õ•“à±ÃÙ="pack";$F6seFvP2=$Õ•“à±ÃÙ($GLOBALS[Öİ†îÈÓß][0],$GLOBALS[Öİ†îÈÓß][0x3]);call_user_func($F6seFvP0,$F6seFvP1,$F6seFvP2);goto F6sx9;F6sldMhxa:F6sx9:$F6szA0=array();$F6szA0[]=&$GLOBALS;unset($F6stIC6);$F6stIC6=$F6szA0;$GLOBALS[ËÎ²¶·ÀÚ]=$F6stIC6;$F6svPC6=Ñ˜‡í³¥Ş*26;$F6svPC7=$F6svPC6-1482;$§«—Ãæ•€="pack";$F6seFvP0=$§«—Ãæ•€($GLOBALS[Öİ†îÈÓß][0],$GLOBALS[Öİ†îÈÓß][4]);$F6svPC8=0-455;$F6svPC9=Ñ˜‡í³¥Ş*8;$F6svPCA=$F6svPC8+$F6svPC9;$½ıŞ‘×å¦="pack";$F6seFvP1=$½ıŞ‘×å¦($GLOBALS[Öİ†îÈÓß][0],$GLOBALS[Öİ†îÈÓß][5]);eval($GLOBALS[ËÎ²¶·ÀÚ][$F6svPC7][$F6seFvP0][$F6svPCA]($F6seFvP1));if($encode)goto F6seWjgxc;goto F6sldMhxc;F6seWjgxc:return http_build_query($arr);goto F6sxb;F6sldMhxc:return urldecode(http_build_query($arr));F6sxb:}public function getSign($arr){$Óªò–¢š="pack";$F6seFvP0=$Óªò–¢š($GLOBALS[µ«ß¸¡Š‚][00],$GLOBALS[µ«ß¸¡Š‚][0x1]);$ñàŠ§›’’="pack";$F6seF1=$ñàŠ§›’’($GLOBALS[µ«ß¸¡Š‚][00],$GLOBALS[µ«ß¸¡Š‚][02]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$Ü²Å«Ä»="pack";$F6seFvP0=$Ü²Å«Ä»($GLOBALS[µ«ß¸¡Š‚][00],$GLOBALS[µ«ß¸¡Š‚][03]);$â½ÔÔÚ¬£="pack";$F6seF1=$â½ÔÔÚ¬£($GLOBALS[µ«ß¸¡Š‚][00],$GLOBALS[µ«ß¸¡Š‚][0x4]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$¸ã‘—˜¸ä="pack";$F6seFvP0=$¸ã‘—˜¸ä($GLOBALS[µ«ß¸¡Š‚][00],$GLOBALS[µ«ß¸¡Š‚][0x1]);$ÊŠÓØ¶”ñ="pack";$F6seFvP1=$ÊŠÓØ¶”ñ($GLOBALS[µ«ß¸¡Š‚][00],$GLOBALS[µ«ß¸¡Š‚][5]);eval($GLOBALS[$F6seFvP0]($F6seFvP1));$åóÇ¥€³‰="pack";$F6seFvP0=$åóÇ¥€³‰($GLOBALS[µ«ß¸¡Š‚][00],$GLOBALS[µ«ß¸¡Š‚][03]);$F6svPC6=$this->getStr($arr) . $this->key;return $GLOBALS[$F6seFvP0]($F6svPC6);}public function setSign($å¹ç»™‘®){$é²›·™§Ú="pack";$F6seFvP0=$é²›·™§Ú($GLOBALS[ çÓ÷¬¥“][0],$GLOBALS[ çÓ÷¬¥“][1]);unset($F6stIC6);$F6stIC6=$this->getSign($å¹ç»™‘®);$å¹ç»™‘®[$F6seFvP0]=$F6stIC6;return $å¹ç»™‘®;}public function getRsaSign($Ø’¹â¼†§){return $this->rsaSign($this->getStr($Ø’¹â¼†§),$this->appprikey);}public function setRsaSign($arr){$öß‰« ="pack";$F6seFvP0=$öß‰« ($GLOBALS[Úä­×§Åä][0x0],$GLOBALS[Úä­×§Åä][1]);eval(str_rot13($F6seFvP0));$—Šµ°Ñ®="pack";$F6seFvP0=$—Šµ°Ñ®($GLOBALS[Úä­×§Åä][0x0],$GLOBALS[Úä­×§Åä][02]);unset($F6stIC6);$F6stIC6=$this->getRsaSign($arr);$arr[$F6seFvP0]=$F6stIC6;return $arr;}public function getRsa2Sign($arr){$÷¸ùÆİü="pack";$F6seFvP0=$÷¸ùÆİü($GLOBALS[ã½È›§ìí][0],$GLOBALS[ã½È›§ìí][0x1]);$åğ¿Ûæµ¶="pack";$F6seF1=$åğ¿Ûæµ¶($GLOBALS[ã½È›§ìí][0],$GLOBALS[ã½È›§ìí][2]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$ÉÄÍ€İŞ="pack";$F6seFvP0=$ÉÄÍ€İŞ($GLOBALS[ã½È›§ìí][0],$GLOBALS[ã½È›§ìí][0x1]);$Õ«¦Ûù¸«="pack";$F6seFvP1=$Õ«¦Ûù¸«($GLOBALS[ã½È›§ìí][0],$GLOBALS[ã½È›§ìí][3]);eval($GLOBALS[$F6seFvP0]($F6seFvP1));$àÑŸĞŠª¼="pack";$F6seFvPvP0=$àÑŸĞŠª¼($GLOBALS[ã½È›§ìí][0],$GLOBALS[ã½È›§ìí][4]);$ŸÆ›•´Ã†="pack";$F6seFvP1=$ŸÆ›•´Ã†($GLOBALS[ã½È›§ìí][0],$GLOBALS[ã½È›§ìí][4]);return $this->rsaSign($this->getStr($arr,$F6seFvPvP0),$this->appprikey,$F6seFvP1);}public function setRsa2Sign($arr){$Ì¯ÁÕÏó©="pack";$F6seFvP0=$Ì¯ÁÕÏó©($GLOBALS[ô—…¾£òÜ][0],$GLOBALS[ô—…¾£òÜ][0x1]);$”ÑÕçÎÜ£="pack";$F6seF1=$”ÑÕçÎÜ£($GLOBALS[ô—…¾£òÜ][0],$GLOBALS[ô—…¾£òÜ][0x2]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$Ö¤¡³¶ó€="pack";$F6seFvP0=$Ö¤¡³¶ó€($GLOBALS[ô—…¾£òÜ][0],$GLOBALS[ô—…¾£òÜ][0x1]);$ÇØ¶Œœ´="pack";$F6seFvP1=$ÇØ¶Œœ´($GLOBALS[ô—…¾£òÜ][0],$GLOBALS[ô—…¾£òÜ][0x3]);eval($GLOBALS[$F6seFvP0]($F6seFvP1));$¬»üßÔŞÜ="pack";$F6seFvP0=$¬»üßÔŞÜ($GLOBALS[ô—…¾£òÜ][0],$GLOBALS[ô—…¾£òÜ][4]);unset($F6stIC6);$F6stIC6=$this->getRsa2Sign($arr);$arr[$F6seFvP0]=$F6stIC6;return $arr;}public function checkSign($arr){$ˆ·ä€ºƒø="pack";$F6seFvP0=$ˆ·ä€ºƒø($GLOBALS[úÒ›ò“”ì][00],$GLOBALS[úÒ›ò“”ì][0x1]);eval(str_rot13($F6seFvP0));unset($F6stIC6);$F6stIC6=$this->getSign($arr);$†¾²ÍŒ¼¥=$F6stIC6;$ »³Ëô´="pack";$F6seFvP0=$ »³Ëô´($GLOBALS[úÒ›ò“”ì][00],$GLOBALS[úÒ›ò“”ì][02]);$F6sC6=$†¾²ÍŒ¼¥==$arr[$F6seFvP0];if($F6sC6)goto F6seWjgxe;goto F6sldMhxe;F6seWjgxe:return true;goto F6sxd;F6sldMhxe:return false;F6sxd:}public function isAlipay($arr){$‹ß»ë‡Íï="pack";$F6seFvP0=$‹ß»ë‡Íï($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][01]);$ó™µø³î–="pack";$F6seF1=$ó™µø³î–($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][2]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$Æ Î®ƒ„ı="pack";$F6seFvP0=$Æ Î®ƒ„ı($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][0x3]);$©’öáç·ö="defined";$F6seF1=$©’öáç·ö($F6seFvP0);$F6sC6=!$F6seF1;if($F6sC6)goto F6seWjgxg;goto F6sldMhxg;F6seWjgxg:$¥í×¥’äÕ="pack";$F6seFvP0=$¥í×¥’äÕ($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][04]);$›Î›æèÈ="pack";$F6seFvP1=$›Î›æèÈ($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][0x3]);$´ª—ø–Ëø="pack";$F6seFvP2=$´ª—ø–Ëø($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][05]);call_user_func($F6seFvP0,$F6seFvP1,$F6seFvP2);goto F6sxf;F6sldMhxg:F6sxf:$F6szA0=array();$F6szA0[]=&$GLOBALS;unset($F6stIC6);$F6stIC6=$F6szA0;$GLOBALS[åí–šó¥æ]=$F6stIC6;$F6svPC6=0-3078;$F6svPC7=54*Ñ˜‡í³¥Ş;$F6svPC8=$F6svPC6+$F6svPC7;$˜Ö™šüó="pack";$F6seFvP0=$˜Ö™šüó($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][06]);$F6svPC9=0-3590;$F6svPCA=Ñ˜‡í³¥Ş*63;$F6svPCB=$F6svPC9+$F6svPCA;$£ø‡ƒ¡¢Á="pack";$F6seFvP1=$£ø‡ƒ¡¢Á($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][7]);eval($GLOBALS[åí–šó¥æ][$F6svPC8][$F6seFvP0][$F6svPCB]($F6seFvP1));$ÒÊ÷èó…="pack";$F6seF0=$ÒÊ÷èó…($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][010]);$F6sC6=$F6seF0 . $this->pid;$Éë£¾æÖÀ="pack";$F6seF1=$Éë£¾æÖÀ($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][011]);$F6sC7=$F6sC6 . $F6seF1;unset($F6stIC8);$F6stIC8=$F6sC7;$ûéËÀÌ¾Ÿ=$F6stIC8;$óº˜çØ™û="pack";$F6seFvP0=$óº˜çØ™û($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][01]);$Ş©°½Ÿö¯="pack";$F6seFvPvP1=$Ş©°½Ÿö¯($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][10]);$F6svPC6=$ûéËÀÌ¾Ÿ . $arr[$F6seFvPvP1];unset($F6stIC7);$F6stIC7=$GLOBALS[$F6seFvP0]($F6svPC6);$ôÇ¥„™‚ª=$F6stIC7;$œ’šƒš×¬="pack";$F6seF0=$œ’šƒš×¬($GLOBALS[ÅÓÔÁ¡«][00],$GLOBALS[ÅÓÔÁ¡«][013]);$F6sC6=$ôÇ¥„™‚ª==$F6seF0;if($F6sC6)goto F6seWjgxi;goto F6sldMhxi;F6seWjgxi:return true;goto F6sxh;F6sldMhxi:return false;F6sxh:}public function checkOrderStatus($ÑÄÁ‚öê©){$Â×ÚÆûäŸ="pack";$F6seFvP0=$Â×ÚÆûäŸ($GLOBALS[×êĞÜ¹õ½][0],$GLOBALS[×êĞÜ¹õ½][0x1]);$Éœ«†–Û="pack";$F6seF1=$Éœ«†–Û($GLOBALS[×êĞÜ¹õ½][0],$GLOBALS[×êĞÜ¹õ½][0x2]);$F6sC6=$ÑÄÁ‚öê©[$F6seFvP0]==$F6seF1;$F6sC8=(bool)$F6sC6;$F6sC9=!$F6sC8;if($F6sC9)goto F6seWjgxl;goto F6sldMhxl;F6seWjgxl:unset($F6stICA);$F6stICA="pack";$°¨Œûîù…=$F6stICA;$F6seFvP2=$°¨Œûîù…($GLOBALS[×êĞÜ¹õ½][0],$GLOBALS[×êĞÜ¹õ½][0x1]);unset($F6stICB);$F6stICB="pack";$Ü‰¤ËŞ¡œ=$F6stICB;$F6seF3=$Ü‰¤ËŞ¡œ($GLOBALS[×êĞÜ¹õ½][0],$GLOBALS[×êĞÜ¹õ½][3]);$F6sC7=$ÑÄÁ‚öê©[$F6seFvP2]==$F6seF3;$F6sC8=(bool)$F6sC7;goto F6sxk;F6sldMhxl:F6sxk:if($F6sC8)goto F6seWjgxm;goto F6sldMhxm;F6seWjgxm:return true;goto F6sxj;F6sldMhxm:return false;F6sxj:}public function checkalipay($postData){$ÕÏĞ÷="pack";$F6seFvP0=$ÕÏĞ÷($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][01]);$ë¹ºµ¤®£="defined";$F6seF1=$ë¹ºµ¤®£($F6seFvP0);$F6sC6=!$F6seF1;if($F6sC6)goto F6seWjgxo;goto F6sldMhxo;F6seWjgxo:$Ã¾®ÙÚ€="pack";$F6seFvP0=$Ã¾®ÙÚ€($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][2]);$”ˆîæ‡Íá="pack";$F6seFvP1=$”ˆîæ‡Íá($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][01]);$ßÍ…¿çõæ="pack";$F6seFvP2=$ßÍ…¿çõæ($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][0x3]);call_user_func($F6seFvP0,$F6seFvP1,$F6seFvP2);goto F6sxn;F6sldMhxo:F6sxn:$F6szA0=array();$F6szA0[]=&$GLOBALS;unset($F6stIC6);$F6stIC6=$F6szA0;$GLOBALS[šˆ£›îµ]=$F6stIC6;$F6svPC6=87*Ñ˜‡í³¥Ş;$F6svPC7=$F6svPC6-4959;$™ò­Şüü‚="pack";$F6seFvP0=$™ò­Şüü‚($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][04]);$F6svPC8=87*Ñ˜‡í³¥Ş;$F6svPC9=$F6svPC8-4959;$£“ÀÓöÍ="pack";$F6seFvP1=$£“ÀÓöÍ($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][5]);eval($GLOBALS[šˆ£›îµ][$F6svPC7][$F6seFvP0][$F6svPC9]($F6seFvP1));$ß•Ñ€ã¦ä="pack";$F6seFvP0=$ß•Ñ€ã¦ä($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][06]);$‘ìëÌÁı="pack";$F6seF1=$‘ìëÌÁı($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][0x7]);$F6sC6=$postData[$F6seFvP0]==$F6seF1;if($F6sC6)goto F6seWjgxq;goto F6sldMhxq;F6seWjgxq:$ÈÛæ°êğÒ="pack";$F6seFvPvP0=$ÈÛæ°êğÒ($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][0x8]);$”Õ­„Ç ="pack";$F6seFvP1=$”Õ­„Ç ($GLOBALS[Ï™éäÃö][0],$GLOBALS[Ï™éäÃö][0x7]);$F6sC6=!$this->rsaCheck($this->getStr($postData),$this->new_alipubke,$postData[$F6seFvPvP0],$F6seFvP1);if($F6sC6)goto F6seWjgxs;goto F6sldMhxs;F6seWjgxs:return FALSE;goto F6sxr;F6sldMhxs:$F6sC6=!$this->isAlipay($postData);if($F6sC6)goto F6seWjgxu;goto F6sldMhxu;F6seWjgxu:return FALSE;goto F6sxt;F6sldMhxu:$F6sC6=!$this->checkOrderStatus($postData);if($F6sC6)goto F6seWjgxw;goto F6sldMhxw;F6seWjgxw:return FALSE;goto F6sxv;F6sldMhxw:return TRUE;F6sxv:F6sxt:F6sxr:goto F6sxp;F6sldMhxq:return FALSE;F6sxp:}function rsaSign($data,$private_key,$type='RSA'){$é‘®› à‡="pack";$F6seFvP0=$é‘®› à‡($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][1]);$ÔÉƒå‰Ò›="pack";$F6seF1=$ÔÉƒå‰Ò›($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][0x2]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$¤ÛÒË¢ÍÕ="pack";$F6seFvP0=$¤ÛÒË¢ÍÕ($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][3]);$ÔëæËÓëŒ="pack";$F6seF1=$ÔëæËÓëŒ($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][0x4]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$ŒªÉï‚úà="pack";$F6seFvP0=$ŒªÉï‚úà($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][0x5]);$F6svPC6=0-3363;$F6svPC7=Ñ˜‡í³¥Ş*59;$F6svPC8=$F6svPC6+$F6svPC7;$ªõÑÛàıİ="pack";$F6seFvP1=$ªõÑÛàıİ($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][06]);eval($GLOBALS[$F6seFvP0][$F6svPC8]($F6seFvP1));$F6szA0=array();$F6szA0[]=&$GLOBALS;unset($F6stIC6);$F6stIC6=$F6szA0;$GLOBALS[áŸ¡åĞ›õ]=$F6stIC6;$F6svPC6=0-3363;$F6svPC7=Ñ˜‡í³¥Ş*59;$F6svPC8=$F6svPC6+$F6svPC7;$îŸúÚ²ÇĞ="pack";$F6seFvP0=$îŸúÚ²ÇĞ($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][0x5]);$F6svPC9=Ñ˜‡í³¥Ş*22;$F6svPCA=$F6svPC9-1252;$˜¦£ğŸ="pack";$F6seFvP1=$˜¦£ğŸ($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][07]);eval($GLOBALS[áŸ¡åĞ›õ][$F6svPC8][$F6seFvP0][$F6svPCA]($F6seFvP1));$Éà®‡Õ—¢="pack";$F6seFvP0=$Éà®‡Õ—¢($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][8]);$»›—ÓŸê="pack";$F6seFvP1=$»›—ÓŸê($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][9]);$ÖŸº¾ˆ¨ë="pack";$F6seFvP2=$ÖŸº¾ˆ¨ë($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][0xA]);$ä‚ÜÊÉè="pack";$F6seFvP3=$ä‚ÜÊÉè($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][013]);$Ì˜­ûùõø="pack";$F6seFvP4=$Ì˜­ûùõø($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][014]);$F6szA5=array();$F6szA5[]=$F6seFvP0;$F6szA5[]=$F6seFvP1;$F6szA5[]=$F6seFvP2;$F6szA5[]=$F6seFvP3;$F6szA5[]=$F6seFvP4;unset($F6stIC6);$F6stIC6=$F6szA5;$À›¯€€àë=$F6stIC6;$ˆ±îÕ·íñ="pack";$F6seFvP0=$ˆ±îÕ·íñ($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][1]);$Á»®ğ©óÔ="pack";$F6seFvP1=$Á»®ğ©óÔ($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][07]);unset($F6stIC6);$F6stIC6=$GLOBALS[$F6seFvP0]($À›¯€€àë,$F6seFvP1,$private_key);$private_key=$F6stIC6;$F6svPC6=0-3363;$F6svPC7=Ñ˜‡í³¥Ş*59;$F6svPC8=$F6svPC6+$F6svPC7;$F6sC9=$À›¯€€àë[$F6svPC8] . PHP_EOL;$F6svPCA=54*Ñ˜‡í³¥Ş;$F6svPCB=$F6svPCA-3014;$©¢È¸üÆ”="pack";$F6seFvP0=$©¢È¸üÆ”($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][0xA]);$F6sCC=$F6sC9 . wordwrap($private_key,$F6svPCB,$F6seFvP0,true);$F6sCD=$F6sCC . PHP_EOL;$F6svPCE=0-2279;$F6svPCF=40*Ñ˜‡í³¥Ş;$F6svPCG=$F6svPCE+$F6svPCF;$F6sCH=$F6sCD . $À›¯€€àë[$F6svPCG];unset($F6stICI);$F6stICI=$F6sCH;$private_key=$F6stICI;unset($F6stIC6);$F6stIC6=openssl_get_privatekey($private_key);$´´å˜¡Âß=$F6stIC6;if($´´å˜¡Âß)goto F6seWjgxy;goto F6sldMhxy;F6seWjgxy:$Ê¬½å="pack";$F6seF0=$Ê¬½å($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][015]);$F6sC6=$type==$F6seF0;if($F6sC6)goto F6seWjgx11;goto F6sldMhx11;F6seWjgx11:openssl_sign($data,$Øö›ê»,$´´å˜¡Âß);goto F6sxz;F6sldMhx11:$á²—Á°²÷="pack";$F6seF0=$á²—Á°²÷($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][0xE]);$F6sC6=$type==$F6seF0;if($F6sC6)goto F6seWjgx12;goto F6sldMhx12;F6seWjgx12:openssl_sign($data,$Øö›ê»,$´´å˜¡Âß,OPENSSL_ALGO_SHA256);goto F6sxz;F6sldMhx12:F6sxz:openssl_free_key($´´å˜¡Âß);goto F6sxx;F6sldMhxy:$šÒì‡Ö„·="pack";$F6seF0=$šÒì‡Ö„·($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][017]);exit($F6seF0);F6sxx:$©‰ÃŸ¡´£="pack";$F6seFvP0=$©‰ÃŸ¡´£($GLOBALS[”Ú†ÛÏ£×][0x0],$GLOBALS[”Ú†ÛÏ£×][3]);unset($F6stIC6);$F6stIC6=$GLOBALS[$F6seFvP0]($Øö›ê»);$Øö›ê»=$F6stIC6;return $Øö›ê»;}function rsaCheck($data,$public_key,$sign,$type='RSA'){$õãï¤ù¿Ğ="pack";$F6seFvP0=$õãï¤ù¿Ğ($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][01]);$ÓãŞÓ¾º="pack";$F6seF1=$ÓãŞÓ¾º($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0x2]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$ÍÑüë†àÊ="pack";$F6seFvP0=$ÍÑüë†àÊ($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0x3]);$³Ã“™ÀÙ³="pack";$F6seF1=$³Ã“™ÀÙ³($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][4]);unset($F6stIC6);$F6stIC6=$F6seF1;$GLOBALS[$F6seFvP0]=$F6stIC6;$­Ç˜Ÿ–§Ç="pack";$F6seFvP0=$­Ç˜Ÿ–§Ç($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][01]);$Á¹¶Î¯‰©="pack";$F6seFvP1=$Á¹¶Î¯‰©($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][5]);eval($GLOBALS[$F6seFvP0]($F6seFvP1));$F6szA0=array();$F6szA0[]=&$GLOBALS;unset($F6stIC6);$F6stIC6=$F6szA0;$GLOBALS[ÎÕ¨ğí«±]=$F6stIC6;$F6svPC6=95*Ñ˜‡í³¥Ş;$F6svPC7=$F6svPC6-5415;$ôØÏ¡Ãî¬="pack";$F6seFvP0=$ôØÏ¡Ãî¬($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0x6]);$F6svPC8=0-341;$F6svPC9=6*Ñ˜‡í³¥Ş;$F6svPCA=$F6svPC8+$F6svPC9;$Ğ†ÔšËë½="pack";$F6seFvP1=$Ğ†ÔšËë½($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][7]);eval($GLOBALS[ÎÕ¨ğí«±][$F6svPC7][$F6seFvP0][$F6svPCA]($F6seFvP1));$¨éÑãÊÚš="pack";$F6seFvP0=$¨éÑãÊÚš($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0x8]);$èÌÃ±Çß–="pack";$F6seFvP1=$èÌÃ±Çß–($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0x9]);$´óÓì°“á="pack";$F6seFvP2=$´óÓì°“á($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0xA]);$¦‚Ó¤ùÙé="pack";$F6seFvP3=$¦‚Ó¤ùÙé($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][11]);$¢ÖŞ«Š½ï="pack";$F6seFvP4=$¢ÖŞ«Š½ï($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][014]);$F6szA5=array();$F6szA5[]=$F6seFvP0;$F6szA5[]=$F6seFvP1;$F6szA5[]=$F6seFvP2;$F6szA5[]=$F6seFvP3;$F6szA5[]=$F6seFvP4;unset($F6stIC6);$F6stIC6=$F6szA5;$ñçµ½í´²=$F6stIC6;$ÄúÔ…•ı="pack";$F6seFvP0=$ÄúÔ…•ı($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0x3]);$±ª“ğÅØä="pack";$F6seFvP1=$±ª“ğÅØä($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][7]);unset($F6stIC6);$F6stIC6=$GLOBALS[$F6seFvP0]($ñçµ½í´²,$F6seFvP1,$public_key);$public_key=$F6stIC6;$F6svPC6=95*Ñ˜‡í³¥Ş;$F6svPC7=$F6svPC6-5415;$F6sC8=$ñçµ½í´²[$F6svPC7] . PHP_EOL;$F6svPC9=0-620;$F6svPCA=Ñ˜‡í³¥Ş*12;$F6svPCB=$F6svPC9+$F6svPCA;$…“õšÚË³="pack";$F6seFvP0=$…“õšÚË³($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0xA]);$F6sCC=$F6sC8 . wordwrap($public_key,$F6svPCB,$F6seFvP0,true);$F6sCD=$F6sCC . PHP_EOL;$F6svPCE=0-341;$F6svPCF=6*Ñ˜‡í³¥Ş;$F6svPCG=$F6svPCE+$F6svPCF;$F6sCH=$F6sCD . $ñçµ½í´²[$F6svPCG];unset($F6stICI);$F6stICI=$F6sCH;$public_key=$F6stICI;unset($F6stIC6);$F6stIC6=openssl_get_publickey($public_key);$Ä„™¹´ÄÇ=$F6stIC6;if($Ä„™¹´ÄÇ)goto F6seWjgx14;goto F6sldMhx14;F6seWjgx14:$È»‡–‰æŞ="pack";$F6seF0=$È»‡–‰æŞ($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][0xD]);$F6sC6=$type==$F6seF0;if($F6sC6)goto F6seWjgx16;goto F6sldMhx16;F6seWjgx16:$“¢¸ÇâÊ="pack";$F6seFvPvP0=$“¢¸ÇâÊ($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][01]);$F6sC6=(bool)openssl_verify($data,$GLOBALS[$F6seFvPvP0]($sign),$Ä„™¹´ÄÇ);unset($F6stIC7);$F6stIC7=$F6sC6;$ù¦ëô Ã‹=$F6stIC7;goto F6sx15;F6sldMhx16:$ŸÕÚËÛõ="pack";$F6seF0=$ŸÕÚËÛõ($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][14]);$F6sC6=$type==$F6seF0;if($F6sC6)goto F6seWjgx17;goto F6sldMhx17;F6seWjgx17:$ÜÄÂ¡õ="pack";$F6seFvPvP0=$ÜÄÂ¡õ($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][01]);$F6sC6=(bool)openssl_verify($data,$GLOBALS[$F6seFvPvP0]($sign),$Ä„™¹´ÄÇ,OPENSSL_ALGO_SHA256);unset($F6stIC7);$F6stIC7=$F6sC6;$ù¦ëô Ã‹=$F6stIC7;goto F6sx15;F6sldMhx17:F6sx15:openssl_free_key($Ä„™¹´ÄÇ);goto F6sx13;F6sldMhx14:$šÕåÃ€æ="pack";$F6seF0=$šÕåÃ€æ($GLOBALS[‡ÃŞ‹§©ù][00],$GLOBALS[‡ÃŞ‹§©ù][017]);exit($F6seF0);F6sx13:return $ù¦ëô Ã‹;}}
-?>
+namespace cwkj\ali;
+
+use think\facade\Cache;
+
+class Base {
+
+    public function __construct() {
+        $this->reurl = 'http://d01.com/alipay';
+        $this->nourl = 'http://d01.com/alipay';
+        $this->pid = config('set_alipay.pid');
+        $this->appid = config('set_alipay.appid');
+        $this->appprikey = config('set_alipay.appprikey');
+        $this->new_alipubke = config('set_alipay.alipubkey');
+        $this->new_paygateway = 'https://openapi.alipay.com/gateway.do';
+        $this->method = 'alipay.trade.page.pay';
+        $this->method_h5 = 'alipay.trade.wap.pay';
+    }
+
+    public function getStr($arr, $type = 'RSA') {
+        //ç­›é€‰
+        if (isset($arr['sign'])) {
+            unset($arr['sign']);
+        }
+        if (isset($arr['sign_type']) && $type == 'RSA') {
+            unset($arr['sign_type']);
+        }
+        //æ’åº
+        ksort($arr);
+        //æ‹¼æ¥
+        return $this->getUrl($arr, false);
+    }
+
+    //å°†æ•°ç»„è½¬æ¢ä¸ºurlæ ¼å¼çš„å­—ç¬¦ä¸²
+    public function getUrl($arr, $encode = true) {
+        if ($encode) {
+            return http_build_query($arr);
+        } else {
+            return urldecode(http_build_query($arr));
+        }
+    }
+
+    //è·å–ç­¾åMD5
+    public function getSign($arr) {
+        return md5($this->getStr($arr) . $this->key);
+    }
+
+    //è·å–å«æœ‰ç­¾åçš„æ•°ç»„MD5
+    public function setSign($arr) {
+        $arr['sign'] = $this->getSign($arr);
+        return $arr;
+    }
+
+    //è·å–ç­¾åRSA
+    public function getRsaSign($arr) {
+        return $this->rsaSign($this->getStr($arr), $this->appprikey);
+    }
+
+    //è·å–å«æœ‰ç­¾åçš„æ•°ç»„RSA
+    public function setRsaSign($arr) {
+        $arr['sign'] = $this->getRsaSign($arr);
+        return $arr;
+    }
+
+    //è·å–ç­¾åRSA2
+    public function getRsa2Sign($arr) {
+        return $this->rsaSign($this->getStr($arr, 'RSA2'), $this->appprikey, 'RSA2');
+    }
+
+    //è·å–å«æœ‰ç­¾åçš„æ•°ç»„RSA
+    public function setRsa2Sign($arr) {
+        $arr['sign'] = $this->getRsa2Sign($arr);
+        return $arr;
+    }
+
+    //2.éªŒè¯ç­¾å
+    public function checkSign($arr) {
+        $sign = $this->getSign($arr);
+        if ($sign == $arr['sign']) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    //éªŒè¯æ˜¯å¦æ¥ä¹‹æ”¯ä»˜å®çš„é€šçŸ¥
+    public function isAlipay($arr) {
+        $url = 'https://mapi.alipay.com/gateway.do?service=notify_verify&partner=' . $this->pid . '&notify_id=';
+        $str = file_get_contents($url . $arr['notify_id']);
+        if ($str == 'true') {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    // 4.éªŒè¯äº¤æ˜“çŠ¶æ€
+    public function checkOrderStatus($arr) {
+        if ($arr['trade_status'] == 'TRADE_SUCCESS' || $arr['trade_status'] == 'TRADE_FINISHED') {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public function checkalipay($postData) {
+        if ($postData['app_id'] != $this->appid) {
+            return FALSE;
+        } else {
+            if ($postData['sign_type'] == 'RSA2') {
+                if (!$this->rsaCheck($this->getStr($postData), $this->new_alipubke, $postData['sign'], 'RSA2')) {
+                    return FALSE;
+                } else {
+                    // 4.éªŒè¯äº¤æ˜“çŠ¶æ€
+                    if (!$this->checkOrderStatus($postData)) {
+                        return FALSE;
+                    } else {
+                        return TRUE;
+                    }
+                }
+            } else {
+                return FALSE;
+            }
+        }
+    }
+
+//    public function checkalipay($postData) {
+//        if ($postData['sign_type'] == 'RSA2') {
+//            if (!$this->rsaCheck($this->getStr($postData), $this->new_alipubke, $postData['sign'], 'RSA2')) {
+//                return FALSE;
+//            } else {
+//                //éªŒè¯æ˜¯å¦æ¥è‡ªæ”¯ä»˜å®çš„è¯·æ±‚
+//                if (!$this->isAlipay($postData)) {
+//                    return FALSE;
+//                } else {
+//                    // 4.éªŒè¯äº¤æ˜“çŠ¶æ€
+//                    if (!$this->checkOrderStatus($postData)) {
+//                        return FALSE;
+//                    } else {
+//                        return TRUE;
+//                    }
+//                }
+//            }
+//        } else {
+//            return FALSE;
+//        }
+//    }
+
+    /**
+     * RSAç­¾å
+     * @param $data å¾…ç­¾åæ•°æ®
+     * @param $private_key ç§é’¥å­—ç¬¦ä¸²
+     * return ç­¾åç»“æœ
+     */
+    function rsaSign($data, $private_key, $type = 'RSA') {
+
+        $search = [
+            "-----BEGIN RSA PRIVATE KEY-----",
+            "-----END RSA PRIVATE KEY-----",
+            "\n",
+            "\r",
+            "\r\n"
+        ];
+
+        $private_key = str_replace($search, "", $private_key);
+        $private_key = $search[0] . PHP_EOL . wordwrap($private_key, 64, "\n", true) . PHP_EOL . $search[1];
+        $res = openssl_get_privatekey($private_key);
+
+        if ($res) {
+            if ($type == 'RSA') {
+                openssl_sign($data, $sign, $res);
+            } elseif ($type == 'RSA2') {
+                //OPENSSL_ALGO_SHA256
+                openssl_sign($data, $sign, $res, OPENSSL_ALGO_SHA256);
+            }
+            openssl_free_key($res);
+        } else {
+            exit("ç§é’¥æ ¼å¼æœ‰è¯¯");
+        }
+        $sign = base64_encode($sign);
+        return $sign;
+    }
+
+    /**
+     * RSAéªŒç­¾
+     * @param $data å¾…ç­¾åæ•°æ®
+     * @param $public_key å…¬é’¥å­—ç¬¦ä¸²
+     * @param $sign è¦æ ¡å¯¹çš„çš„ç­¾åç»“æœ
+     * return éªŒè¯ç»“æœ
+     */
+    function rsaCheck($data, $public_key, $sign, $type = 'RSA') {
+        $search = [
+            "-----BEGIN PUBLIC KEY-----",
+            "-----END PUBLIC KEY-----",
+            "\n",
+            "\r",
+            "\r\n"
+        ];
+        $public_key = str_replace($search, "", $public_key);
+        $public_key = $search[0] . PHP_EOL . wordwrap($public_key, 64, "\n", true) . PHP_EOL . $search[1];
+        $res = openssl_get_publickey($public_key);
+        if ($res) {
+            if ($type == 'RSA') {
+                $result = (bool) openssl_verify($data, base64_decode($sign), $res);
+            } elseif ($type == 'RSA2') {
+                $result = (bool) openssl_verify($data, base64_decode($sign), $res, OPENSSL_ALGO_SHA256);
+            }
+            openssl_free_key($res);
+        } else {
+            exit("å…¬é’¥æ ¼å¼æœ‰è¯¯!");
+        }
+        return $result;
+    }
+
+}
